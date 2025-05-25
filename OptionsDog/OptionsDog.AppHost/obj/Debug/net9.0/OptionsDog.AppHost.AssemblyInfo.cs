@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("81d2cc02-640e-4ffc-baf0-c5108ed390ad")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("74adf9dd-f947-4b77-82a8-126318222a3d")]
 [assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\hattr\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\d" +
     "cp.exe")]
 [assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\hattr\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptionsDog.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292247b9f25f66fe313c14dd04eed6f2dd358d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptionsDog.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptionsDog.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

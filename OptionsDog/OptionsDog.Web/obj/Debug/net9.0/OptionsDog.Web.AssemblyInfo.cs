@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptionsDog.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292247b9f25f66fe313c14dd04eed6f2dd358d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptionsDog.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptionsDog.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

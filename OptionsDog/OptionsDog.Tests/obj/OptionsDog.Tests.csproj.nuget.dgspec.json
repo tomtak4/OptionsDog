@@ -65,10 +65,6 @@
               "target": "Package",
               "version": "[9.0.0, )",
               "autoReferenced": true
-            },
-            "Aspire.Hosting.Redis": {
-              "target": "Package",
-              "version": "[9.0.0, )"
             }
           },
           "imports": [

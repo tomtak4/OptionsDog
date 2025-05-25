@@ -1,0 +1,13 @@
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\bin\Debug\net9.0\OptionsDog.ServiceDefaults.deps.json
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\bin\Debug\net9.0\OptionsDog.ServiceDefaults.dll
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\bin\Debug\net9.0\OptionsDog.ServiceDefaults.pdb
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.AssemblyInfo.cs
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.sourcelink.json
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.dll
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\refint\OptionsDog.ServiceDefaults.dll
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\OptionsDog.ServiceDefaults.pdb
+C:\Users\hattr\source\repos\OptionsDogAspire\OptionsDog\OptionsDog.ServiceDefaults\obj\Debug\net9.0\ref\OptionsDog.ServiceDefaults.dll
