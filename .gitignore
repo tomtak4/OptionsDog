@@ -3,4 +3,14 @@
 ################################################################################
 
 /.vs
-/OptionsDog/.vs/OptionsDog
+/OptionsDog/.vs
+/OptionsDog/OptionsDog.ApiService/bin
+/OptionsDog/OptionsDog.ApiService/obj
+/OptionsDog/OptionsDog.AppHost/bin
+/OptionsDog/OptionsDog.AppHost/obj
+/OptionsDog/OptionsDog.ServiceDefaults/bin
+/OptionsDog/OptionsDog.ServiceDefaults/obj
+/OptionsDog/OptionsDog.Tests/bin
+/OptionsDog/OptionsDog.Tests/obj
+/OptionsDog/OptionsDog.Web/bin
+/OptionsDog/OptionsDog.Web/obj
